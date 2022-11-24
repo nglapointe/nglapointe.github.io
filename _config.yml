@@ -19,9 +19,7 @@ title_separator: "-"
 name: "Nick LaPointe"
 email: nglapointe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Think Big "\n"
-  Start Small "\n"
-  Move Fast
+  I like to break into things and then write very detailed confessions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nglapointe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nglapointe
