@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+I'm a husband and father first, Security professional second. I have a great passion for defending technology against novel and creative tactics, techniques and procedures. To reverse the adversaries advantage and spread my knowledge amongst the Information security community.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Together we can build a strong and resilient foundation that will defend against known and unknown threats. I enjoy surrounding myself with professional like-minded individuals that enjoy giving back to the community and want to be better and make others better everyday.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Think Big
+Start Small
+Move Fast
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[About Me](https://about.me/nicklapointe/getstarted)
