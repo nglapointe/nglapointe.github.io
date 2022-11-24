@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
- Links
+---
+Links
     <ul>
       <li><a rel="me" href="https://infosec.exchange/@nglapointe">On Mastodon</a></li>
       </ul>
----
