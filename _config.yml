@@ -44,35 +44,35 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 # Site Author
-author:
-  name             : "Nick LaPointe"
-  avatar           : "headshot.jpg"
-  bio              : "I like to break into things and then write very detailed confessions."
-  location         : "Canada"
-  email            : "nglapointe@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "nglapointe/"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "nickglapointe"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : "nglapointe"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : 
+# author:
+#  name             : "Nick LaPointe"
+#  avatar           : "headshot.jpg"
+#  bio              : "I like to break into things and then write very detailed confessions."
+# location         : "Canada"
+#   email            : "nglapointe@gmail.com"
+#   uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
+#  github           : "nglapointe/"
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  lastfm           :
+#  linkedin         : "nickglapointe"
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : 
+#  steam            :
+#  tumblr           :
+#  twitter          : "nglapointe"
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          : 
 
 
 # Reading Files
