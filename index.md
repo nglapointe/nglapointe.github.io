@@ -4,7 +4,3 @@
 
 layout: home
 ---
-Links
-    <ul>
-      <li><a rel="me" href="https://infosec.exchange/@nglapointe">On Mastodon</a></li>
-      </ul>
