@@ -26,7 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nglapointe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nglapointe
 github_username:  nglapointe
-mastodon: <a rel="me" href="https://infosec.exchange/@nglapointe">On Mastodon</a>
+# Mastodon instances
+mastodon:
+- username: nglapointe
+  instance: infosec.exchange
+# mastodon: <a rel="me" href="https://infosec.exchange/@nglapointe">On Mastodon</a>
 
 # Build settings
 markdown: kramdown
