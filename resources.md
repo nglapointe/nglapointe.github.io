@@ -6,7 +6,7 @@ permalink: /resources/
 
 A placeholder for all of my favorite stuff.
 
-Podcasts:
+**PODCASTS**:
 - SANS Internet Stormcenter
 - Cyber Security Headlines
 - Protecting People
@@ -29,6 +29,28 @@ Podcasts:
 - CYBER
 - CISO Stories
 - Brakeing Down Security
+
+**DISCORD CHANNELS**:
+- TCM Security
+- cyberdeception
+- Blue Team Labs Online
+- SANS Cyber Defense / OSINT
+- Red Team Village
+- JH Discord
+- Antisyphon Training
+- Wild West Hackin' Fest
+- Infosec Knowledge Sharing
+- CrowdSec
+- Red Seige InfoSec
+- SANS Holiday Hack Challenge
+- SANS Offensive Operation
+- Threat Hunter Community
+- TrustedSec
+- Darknet Dairies Community
+- TryHackMe
+- HackTheBox
+- DEFCON
+- Blue Team Village
 
 Books:
 
