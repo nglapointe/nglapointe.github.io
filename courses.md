@@ -6,7 +6,7 @@ permalink: /courses/
 List of courses and certificates in which I participated in over the recent years.
 
 2020:
-- ISC<sup>2<sup> Certified Information System Security Professional (Course)
+- ISC<sup>2</sup> Certified Information System Security Professional (Course)
 
 2021:
 - Cyberason Threat Hunter & Analyst (Certificate)
