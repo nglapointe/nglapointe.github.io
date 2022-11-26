@@ -3,7 +3,6 @@ layout: page
 title: Courses & Certificates
 permalink: /courses/
 ---
-# Courses and Certificates:
 List of courses and certificates in which I participated in over the recent years.
 
 2020:
