@@ -8,23 +8,23 @@ Conferences
 
 
 2019:
-SANS Holiday Hack Challenge Kringlecon 2 (Virtual)
+- SANS Holiday Hack Challenge Kringlecon 2 (Virtual)
 
 2020:
-Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
-Wireshark Shark Fest (Virtual)
-SANS Holiday Hack Challenge Kringlecon 3 (Virtual)
+- Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
+- Wireshark Shark Fest (Virtual)
+- SANS Holiday Hack Challenge Kringlecon 3 (Virtual)
 
 2021:
-Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
-IDM Europe Confex (Virtual)
-SANS Pen Test HackFest Summit (Virtual)
-SANS Holiday Hack Challenge Kringlecon 3 (Virtual)
-Cybereason DefenderCon (Virtual)
+- Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
+- IDM Europe Confex (Virtual)
+- SANS Pen Test HackFest Summit (Virtual)
+- SANS Holiday Hack Challenge Kringlecon 3 (Virtual)
+- Cybereason DefenderCon (Virtual)
 
 2022:
-Netwrix PolicyPak (Virtual)
-Go Beyond (Virtual)
-Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
+- Netwrix PolicyPak (Virtual)
+- Go Beyond (Virtual)
+- Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
 
 [About Me](https://about.me/nicklapointe/getstarted)
