@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferences
+title: Courses & Certificates
 permalink: /courses/
 ---
 # Courses and Certificates:
