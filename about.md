@@ -11,4 +11,4 @@ Think Big
 Start Small
 Move Fast
 
-[About Me](https://about.me/nicklapointe/getstarted)
+[About Me](https://about.me/nicklapointe)
