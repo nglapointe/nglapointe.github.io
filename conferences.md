@@ -26,5 +26,3 @@ Conferences
 - Netwrix PolicyPak (Virtual)
 - Go Beyond (Virtual)
 - Wild West Hackin' Fest (WWHF) Deadwood (Virtual)
-
-[About Me](https://about.me/nicklapointe/getstarted)
