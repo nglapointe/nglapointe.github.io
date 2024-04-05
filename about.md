@@ -13,6 +13,4 @@ Move Fast
 
 [About Me](https://about.me/nicklapointe)
 
-![CEH Practical](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png)
-![CEH Practical](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png)
 ![CEH Practical](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png)
