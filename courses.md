@@ -17,3 +17,10 @@ List of courses and certificates in which I participated in over the recent year
 - Proofpoint Certified Ransomware Specialist (Certificate)
 - Proofpoint Certified DLP Specialist (Certificate)
 - Defending the Enterprise (Antisyphon Course)
+
+2023:
+ - Certified Ethical Hacker (Course)
+
+2024:
+  - Certified Ethical Hacker (Certificate)
+  - Certified Ethical Hacker Practical (Certificate)
